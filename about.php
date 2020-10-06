@@ -62,7 +62,7 @@ $about_desc = $row_about_us['about_desc'];
 
 <?php
 
-include("includes/footer.php");
+include 'includes/footer.php';
 
 ?>
 
